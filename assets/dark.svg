@@ -231,7 +231,7 @@
   <text x="0" y="20" fill="#CBD5E1" class="tw-loc"><tspan fill="#10B981">[+] LOC   :: </tspan>Mumbai, India</text>
   <text x="0" y="42" fill="#CBD5E1" class="tw-edu"><tspan fill="#10B981">[+] EDU   :: </tspan>BE CSE (AI &amp; ML)</text>
   <text x="0" y="64" fill="#CBD5E1" class="tw-focus"><tspan fill="#10B981">[+] FOCUS :: </tspan><tspan fill="#22D3EE">Agentic AI &amp; LLMs</tspan></text>
-  <text x="0" y="86" fill="#CBD5E1" class="tw-site"><tspan fill="#10B981">[+] SITE  :: </tspan><a href="https://yashpal.me" xlink:href="https://yashpal.me" target="_blank"><tspan fill="#F43F5E" class="link-hover">yashpal.me</tspan></a></text>
+  <text x="0" y="86" fill="#CBD5E1" class="tw-site"><tspan fill="#10B981">[+] SITE  :: </tspan><a href="https://yashpal.de" xlink:href="https://yashpal.de" target="_blank"><tspan fill="#F43F5E" class="link-hover">yashpal.de</tspan></a></text>
   <text x="0" y="108" fill="#CBD5E1" class="tw-mail"><tspan fill="#10B981">[+] MAIL  :: </tspan><a href="mailto:2004yashpal@gmail.com" xlink:href="mailto:2004yashpal@gmail.com" target="_blank"><tspan fill="#A855F7" class="link-hover">2004yashpal@gmail.com</tspan></a></text>
 </g>
 
@@ -389,7 +389,7 @@
 
 <!-- TERMINAL FOOTER LINKS -->
 <g transform="translate(505,515)" fill="#64748B" font-size="14" class="term-font">
-  <text x="0"><tspan fill="#10B981">></tspan> [<a href="https://github.com" xlink:href="https://github.com" target="_blank"><tspan fill="#38BDF8" class="link-hover">GitHub</tspan></a>]  [<a href="https://linkedin.com" xlink:href="https://linkedin.com" target="_blank"><tspan fill="#38BDF8" class="link-hover">LinkedIn</tspan></a>]  [<a href="https://x.com" xlink:href="https://x.com" target="_blank"><tspan fill="#38BDF8" class="link-hover">X</tspan></a>]  [<a href="https://yashpal.me" xlink:href="https://yashpal.me" target="_blank"><tspan fill="#38BDF8" class="link-hover">Portfolio</tspan></a>]</text>
+  <text x="0"><tspan fill="#10B981">></tspan> [<a href="https://github.com" xlink:href="https://github.com" target="_blank"><tspan fill="#38BDF8" class="link-hover">GitHub</tspan></a>]  [<a href="https://linkedin.com" xlink:href="https://linkedin.com" target="_blank"><tspan fill="#38BDF8" class="link-hover">LinkedIn</tspan></a>]  [<a href="https://x.com" xlink:href="https://x.com" target="_blank"><tspan fill="#38BDF8" class="link-hover">X</tspan></a>]  [<a href="https://yashpal.de" xlink:href="https://yashpal.de" target="_blank"><tspan fill="#38BDF8" class="link-hover">Portfolio</tspan></a>]</text>
 </g>
 
 <!-- OUTER TERMINAL GLOW BORDER -->
